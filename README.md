@@ -3,7 +3,7 @@
 基于 **Plain Craft Launcher 2（PCL2）2.14.0.0** 深度定制的 Minecraft 启动器，由 **龙腾猫跃、incide_01** 制作。
 采用黄铜主题与机械动力（Create）齿轮背景，内置 FlyServer 整合包一键下载安装、启动器全自动更新、版本按键修改与存档备份等增强功能。
 
-- 当前版本：**2.14.2**
+- 当前版本：**2.25.0**
 - 技术栈：VB.NET + WPF，.NET Framework 4.8
 - 主程序：`PCL-DeFS.exe`
 
